@@ -3,6 +3,6 @@ body{
     width: 960px;
     background-color: #ddd;
     padding: 0px;
-    background: url(imgs/fundo.gif) repeat-x;
+    background: url(imgs/fundo.gif) repeat-x; // repeat serve para configurar a imagem não preencher a tela inteira
 
 }

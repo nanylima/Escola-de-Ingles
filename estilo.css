@@ -6,3 +6,130 @@ body{
     background: url(imgs/fundo.gif) repeat-x; // repeat serve para configurar a imagem não preencher a tela inteira
 
 }
+
+
+#cab img{ /*configurando a imagm do logo*/
+
+    float: left;
+}
+
+#social{
+
+    float: right; /* Flutuando*/
+    margin-top: 40px; /* colocando os icones na posição*/
+
+}
+
+/* Configurando o tamanho dos icones*/
+#social img{
+    width: 32px;
+    height: 32px;
+}
+
+#menu{ /*configurando menus*/
+
+    float: left; /*flutuando os  menus para esquerda*/
+    margin-top: 93px;
+    width: 453px;
+    
+}
+
+ /* Configurando ul do menu, para a lista*/
+#menu ul{
+
+    list-style: nome; /* tirando as marcações do menu*/
+    padding: 0px;
+    margin: 0px;
+    background:linear-gradient(to bottom, #ddd, #666); /* configuração de fundo*/
+
+}
+
+/*Configurando li*/
+
+#menu li{
+    height: 57px;
+    display: table-cell; /* Colocando os menus em horizontal*/
+    text-align: center;
+    vertical-align:middle; /* Colocando a pasição no meio*/
+    width: 150px;
+    border-right: 1px solid #062;
+}
+
+#menu ul,li a{
+
+    text-decoration: none; /* Tirando o traço em baixo*/
+    font-size:20px; /* tamnho da letra do menu*/
+   color: #fff;
+}
+
+
+#banner{
+    margin-top: 15px;
+
+}
+#banner img{
+    width: 960px;
+
+}
+
+#lateral{
+
+    float:right;
+    background: #ddd;
+    width: 170px;
+    border-radius: 10px; /*Arredondar as bordas*/
+    padding: 5px;
+
+
+}
+#lateral h1{
+
+    font-size: 15px;
+    text-align: center;
+    border-bottom:#000 solid 1px; /* colocando um traço em baixo*/
+    margin-top: 5px;
+}
+
+#lateral h2{
+
+    font-size: 15px;
+    text-align: center;
+
+}
+
+#lateral p{
+    text-align: justify;
+}
+
+#main{
+    background: #eee;
+    width: 730px;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+#main h1{
+    font-size: 15px;
+    text-align: center;
+    border-bottom:#000 solid 1px;
+}
+
+#main p{
+
+    text-align: justify;
+}
+
+fooder{
+    color: #888;
+    border-bottom:#000 solid 1px;
+
+}
+
+footer p{
+
+    display: inline-block; /*Colocar palavras um do lado do outro*/
+    width: 316px;
+    text-align: center;
+
+}
+

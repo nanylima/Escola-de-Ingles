@@ -12,7 +12,101 @@
 
  <header id="cab" >
 
+     <img src="imgs/logo.jpg">
+     <div id="social">
+         <img src="imgs/facebook.png">
+         <img src="imgs/twitter.png">
+
+     </div>
+
+     <nav id="menu">
+         <ul>
+             <li><a href="#" target="_self">Home</a></li>
+             <li><a href="#" target="_self">Módulos</a></li>
+             <li><a href="#" target="_self">Contato</a></li>
+         </ul>
+     </nav>
  </header>
+
+ <br class="fixFloat"> // separando da section e aside
+
+<section id="banner">
+    <img src="imgs/banner1.jpg">
+</section>
+
+ <section id="cxlateral">
+     <aside id="lateral">
+
+         <h1>Noticias</h1>
+
+         <h2>Falando do voo</h2>
+
+         <article>
+         <p>No horizonte do espaço aéreo paraense, mais um voo internacional e outra companhia estrangeira estão prestes a  para julh</p>
+
+         </article>
+         <article>
+
+             <h2>Falando sobre a agencia de voo </h2>
+       <p> As novas rotas se somam aos outros voos diretos internacionais já ofertados partindo da capital paraense: Belém-Lisboa (Portugal), realizado pela TAP; Belém-Miami (EUA),
+           feito pela Latam; Belém-Caiena (Guiana Francesa) e Belém-Fort Lauderdale (EUA), operados pela Azul; Belém-Paramaribo (Suriname)</p>
+         </article>
+
+     </aside>
+ </section>
+
+<section id="main">
+
+    <article>
+
+   <h1>O melhor cursi de inglês do Brasil</h1>
+
+    <p>O trabalho é contínuo de articulação junto a classe empresarial e aos gestores públicos  municipais, bem como investimento em qualificação e capacitação profissional
+    do setor, ampliação das vias de acessibilidade em seus diferentes níveis de mercado e modais de transporte, de criação e implementação de rotas turísticas, de formatação e consolidação de produtos,
+    promoção, marketing, pesquisas estatísticas, infraestrutura básica, etc. O objetivo maior é o incremento do fluxo e da receita proveniente do turismo como fator de desenvolvimento econômico e social”,
+        explica, ao destacar que cabe ao mercado se apropriar da estrutura oferecida e assim dinamizar a atividade turística no estado, no que contemplam os assentos e os porões da aeronave.</p>
+    </article>
+
+    <article>
+        <h1>TOEFL</h1>
+       <P>Para o superintendente da Infraero em Belém, Fábio Rodrigues, é preciso confiança na infraestrutura para que se possa fazer um planejamento e implantação desse porte funcionar.
+        “Para que o turismo possa acontecer a maior autoridade aqui e razão de ser é o passageiro”, disse. Ele destacou ainda a posição geográfica privilegiada de Belém “para que haja uma ligação do Brasil com o mundo”.
+        Ele tem trabalhado com pesquisas quantitativas e qualitativas para melhorias em 37 áreas ou atividades existentes no Aeroporto Internacional de Belém, as quais a Setur tem colaborado com seus dados e expertise
+           dos técnicos do órgão,a fim de entender e compreender melhor as necessidades e demandas dos passageiros.</P>
+
+
+    </article>
+
+
+    <article>
+
+        <h1>A política do governo Simão Jatene </h1>
+
+       <p> Estratégias - A política do governo Simão Jatene em desonerar o ICMS sobre o combustível de aviação – atualmente o tributo cobrado é de apenas 3% quando as aeronaves
+        abastecem em solo paraense - deu ao planejamento da Secretaria Estadual de Turismo (Setur) poder para negociar junto às companhias aéreas, o que favoreceu a atração de
+           voos, ampliando gradualmente a malha aérea do Estado.</p>
+
+    </article>
+
+    <article>
+
+        <h1>Um Hub é o centro de logística de uma empresa aérea.</h1>
+
+        <p>Por trás da estratégia, uma meta ambiciosa e desafiadora: tornar Belém o hub aéreo da região Norte do país. Um Hub é o centro de logística de uma empresa aérea.
+        É uma engenharia complexa que pode determinar o sucesso ou fracasso de uma companhia, englobando abastecimento de aeronaves, armazenamento e transporte de cargas,
+            conexões de passageiros e distribuição de voos, a fim de reduzir custos operacionais e proporcionar ganhos de escala ao negócio da aviação.</p>
+    </article>
+</section>
+
+ <br class="fixFloat">
+
+ <footer>
+
+     <p>Layout Curso de Inglês</p>
+     <p>Canal Fessor Bruno</p>
+     <p>www.curso.com.br</p>
+
+ </footer>
 
 </body>
 </html>

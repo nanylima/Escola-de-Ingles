@@ -133,3 +133,30 @@ footer p{
 
 }
 
+details{
+
+    margin-top:30px;
+    cursor: pointer;
+}
+
+details p{
+    font-size: 20px;
+    }
+summary{
+    height: 30px;
+    background: linear-gradient(to bottom, #eee, #999);
+    font: 12pt Arial;
+    font-weight: bold; /*negrito*/
+    padding: 10px 0px 0px 10px;
+}
+
+details[open] summary{ /*Alterando o summary*/
+    color: #fff;
+    background: linear-gradient(to bottom, #e00, #900);
+}
+
+details[open]{
+    background: #eee;
+}
+
+

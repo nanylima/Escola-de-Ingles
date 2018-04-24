@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+
+    <title> Escola de Inglês</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="estilos.css"/>
+
+
+</head>
+<body>
+
+<header id="cab" >
+
+    <img src="imgs/logo.jpg">
+    <div id="social">
+        <img src="imgs/facebook.png">
+        <img src="imgs/twitter.png">
+
+    </div>
+
+    <nav id="menu">
+        <ul>
+            <li><a href="#" target="_self">Home</a></li>
+            <li><a href="#" target="_self">Módulos</a></li>
+            <li><a href="#" target="_self">Contato</a></li>
+        </ul>
+    </nav>
+</header>
+
+<br class="fixFloat">
+
+<section id="Modulos">
+
+
+    <details> // colocando em lista para subtitulo
+        <summary> Módulo 1 - Fundação Cultural divulga Edital Pauta Livre</summary>
+    Divulgado no Diário Oficial do Estado do Pará desta segunda-feira (23), o início das inscrições para o Edital
+    “Pauta Livre – Apoio à Produção Artística 2018.2”, que seguem até o dia 6 de junho de 2018. O edital premiará os 26 melhores projetos inscritos com acesso gratuito a dois
+    espaços da Funda
+
+    </details>
+
+    <details>
+        <summary> Módulo 2 - FCP inscreve para oficina de Jogos Literários</summary> // colocando para o nome do subtitulo original
+    A Biblioteca Vicente Salles, da Casa das Artes, promoverá a oficina de Jogos Literários, no período de 27 a 28 de abril, das 15 às 18 horas. A oficina será ofertada
+    para professores e educadores, e também envolve a área da música, literatura e teatro. As inscrições estão abertas e podem ser feitas
+    </details>
+
+ <details>
+     <summary> Módulo 3 - Cosanpa faz reparo em adutora na Rodovia BR-316</summary>
+    A Companhia de Saneamento do Pará (Cosanpa) iniciou na manhã desta sexta-feira, 20, o serviço de manutenção da adutora da BR-316, no trecho localizado embaixo do viaduto do Coqueiro,
+    na entrada de Belém. Esse trecho apresentou um vazamento e foi preciso fazer a intervenção de forma urgente
+ </details>
+</section>
+
+
+<br class="fixFloat">
+
+<footer>
+
+    <p>Layout Curso de Inglês</p>
+    <p>Canal Fessor Bruno</p>
+    <p>www.curso.com.br</p>
+
+</footer>
+
+</body>
+</html>

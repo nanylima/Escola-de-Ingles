@@ -133,6 +133,8 @@ footer p{
 
 }
 
+//Configurando details e Summary
+
 details{
 
     margin-top:30px;
@@ -159,4 +161,17 @@ details[open]{
     background: #eee;
 }
 
+/* Configurando contato*/
+
+#contato label{
+
+    font-size: 15pt;
+    font-weight: bold;
+    font-style: italic;
+    font-family: Arial;
+    color: #000000;
+    display: block; /*Passando os elementos um em baixo do outro*/
+    margin-top: 20px;
+
+}
 

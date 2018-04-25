@@ -175,3 +175,17 @@ details[open]{
 
 }
 
+
+#contato input[type="submit"], #contato input[type="reset"]{
+    border: 0px;
+    width: 120px; /*Largura*/
+    height: 30px; /*Altura*/
+    color: #ffffff;
+    background: #060;
+    border-radius:10px;
+    cursor: pointer;
+    font-weight: bold;
+
+
+}
+
